@@ -1,0 +1,25 @@
+{
+  "name": "baner",
+  "version": "1.0.0",
+  "description": "demo: https://paula0403.github.io/baner/",
+  "main": "main.js",
+  "scripts": {
+    "start": "live-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aleksanderwalczuk/baner.git"
+  },
+  "keywords": [],
+  "author": "https://github.com/paula0403/baner.git",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aleksanderwalczuk/baner/issues"
+  },
+  "homepage": "https://github.com/aleksanderwalczuk/baner#readme",
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "live-server": "^1.2.1"
+  }
+}
