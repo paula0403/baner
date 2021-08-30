@@ -1,0 +1,31 @@
+{
+  "name": "baner",
+  "version": "1.0.0",
+  "description": "demo: https://paula0403.github.io/baner/",
+  "main": "main.js",
+  "scripts": {
+    "start": "live-server",
+    "lint": "eslint --fix .",
+    "format": "prettier -w ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aleksanderwalczuk/baner.git"
+  },
+  "keywords": [],
+  "author": "https://github.com/paula0403/baner.git",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aleksanderwalczuk/baner/issues"
+  },
+  "homepage": "https://github.com/aleksanderwalczuk/baner#readme",
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-import": "^2.24.2",
+    "eslint-plugin-prettier": "^3.4.1",
+    "live-server": "^1.2.1",
+    "prettier": "^2.3.2"
+  }
+}
